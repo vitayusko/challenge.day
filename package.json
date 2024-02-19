@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/
-challenge.day/",
+    "build": "vite build --base=/challenge.day/",
     "preview": "vite preview"
   },
   "devDependencies": {
